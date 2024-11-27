@@ -31,3 +31,8 @@ Writing out the folders and files is easy enough. I'd like have it infer screen 
 
 For shared routes, I'd like it to inter **initalRouteName**, configure the visible tabs and their href's correctly, probably some other things.
 
+## Actual punch list
+- [] Make sure it actually works as an app
+- [] Add route names to the screens
+- [] See if I can do a diff instead of recreating every file (not sure if this matters)
+- [] Make simple forward links work
