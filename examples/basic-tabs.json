@@ -1,0 +1,12 @@
+{
+  "(tabs)": {
+    "index": null,
+    "two": {
+      "[user]": null,
+      "index": null,
+      "_layout": "stack"
+    },
+    "three": null,
+    "_layout": "tabs"
+  }
+}

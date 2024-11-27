@@ -1,0 +1,21 @@
+{
+  "(logged-in)": {
+    "_layout": "stack",
+    "(tabs)": {
+      "(home)": {
+        "index": null
+      },
+      "(profile)": {
+        "index": null
+      },
+      "(home,profile)": {
+        "[post]": null,
+        "_layout": "stack"
+      },
+      "settings": null,
+      "_layout": "tabs"
+    },
+    "modal": null
+  },
+  "login": null
+}
